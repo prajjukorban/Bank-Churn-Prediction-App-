@@ -39,7 +39,6 @@ The file should contain the following **column headers**:
 
 ### 🔧 Step 1: Clone the Project
 
-```bash
 git clone https://github.com/YOUR-USERNAME/churn-prediction-app.git
 cd churn-prediction-app
 
