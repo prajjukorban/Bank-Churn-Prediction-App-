@@ -1,6 +1,7 @@
 # 🔍 Bank Customer Churn Prediction App
 
 A machine learning web application that predicts whether a bank customer is likely to churn (i.e., leave the bank) based on their personal and account-related data. Built with **Streamlit** and powered by a **Random Forest Classifier** trained on real-world churn data.
+### Deployed on Render: <a href="https://bank-churn-prediction-app.onrender.com/">Click Here</a>
 
 ---
 
